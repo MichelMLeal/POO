@@ -3,4 +3,4 @@ Classe,
 Encapsulamento,
 Herança,
 Polimorfismo,
-Tudo com PHP 7 
+Tudo com PHP 7
