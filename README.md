@@ -1,5 +1,5 @@
 # POO em PHP, conceitos basicos 
-como 
+Classe,
 Encapsulamento
 Herança
 Polimorfismo
