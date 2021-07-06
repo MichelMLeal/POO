@@ -1,0 +1,14 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+body {
+    background-color: azure;
+}
+
+pre {
+    background-color: aquamarine;
+    width: 70%;
+    box-shadow: 5px 5px 5px black;
+}
