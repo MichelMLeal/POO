@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Exercicio01</title>
     <link rel="stylesheet" href="/Styles/style.css">
+    <script src="/JavaScript/script.js"></script>
 </head>
 
 <body>
